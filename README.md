@@ -7,7 +7,7 @@ Loose collection of miscellaneous scripts, tools, algos and exercises I've writt
 ![z-order](imgs/z-order_curve.png)
 
 ## difference of gaussians (edge detection)
-![difference-of-gaussians](difference-of-gaussians.png)
+![difference-of-gaussians](imgs/difference-of-gaussians.png)
 
 ## coin toss
 ![coin-toss](imgs/coin-toss.png)
@@ -24,4 +24,4 @@ Loose collection of miscellaneous scripts, tools, algos and exercises I've writt
 ![meanshift](imgs/meanshift.gif)
 
 ## exponential moving average (EMA)
-![exponential-moving-average](exponential-moving-average.png)
+![exponential-moving-average](imgs/exponential-moving-average.png)
