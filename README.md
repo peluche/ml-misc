@@ -22,3 +22,6 @@ Loose collection of miscellaneous scripts, tools, algos and exercises I've writt
 ![k-means](imgs/kmeans.gif)
 ![hierarchical-clustering](imgs/hierarchical-clustering.gif)
 ![meanshift](imgs/meanshift.gif)
+
+## exponential moving average (EMA)
+![exponential-moving-average](exponential-moving-average.png)
