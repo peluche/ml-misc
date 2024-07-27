@@ -6,6 +6,9 @@ Loose collection of miscellaneous scripts, tools, algos and exercises I've writt
 ![peano](imgs/peano_curve.png)
 ![z-order](imgs/z-order_curve.png)
 
+## difference of gaussians (edge detection)
+![difference-of-gaussians](difference-of-gaussians.png)
+
 ## coin toss
 ![coin-toss](imgs/coin-toss.png)
 
